@@ -1,6 +1,8 @@
 # Triangle
 Triangle is a package manager for the language Hexagn.
 
+## Big note: it's still developing
+
 ## Command line usage
 `trin <commands> [args..]`
 
